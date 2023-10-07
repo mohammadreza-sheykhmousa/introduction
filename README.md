@@ -43,8 +43,8 @@ In the realm of Machine Learning and remote sensing, my work has been recognized
 * Cloud Computing - [See credential](https://https://verify.acloud.guru/C1D5DC8EF163) 
 * Analyzing and Visualizing Data with Microsoft Power BI - [See credential](https://www.coursera.org/account/accomplishments/verify/NZNMGPG2MRQE?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=project) 
 * Natural Language Understanding, Stanford University 
-* Reinforcement Learning
-* Ethical Hacking (CEH)
+
+
 
 
 ### Publications:
