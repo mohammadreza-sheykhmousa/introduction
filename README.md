@@ -1,6 +1,6 @@
 # Greetings <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-In the ever-evolving landscape of technology, I find myself at the intersection of data-driven innovation and transformative impact. With years of hands-on experience spanning Machine Learning, Computer Vision, Natural Language Processing (NLP), and Geographic Information Systems (GIS), my journey has been defined by a relentless pursuit of excellence.
+In the ever-evolving landscape of technology, I find myself at the intersection of data-driven innovation and transformative impact. With years of hands-on experience spanning Machine Learning, Computer Vision, and Geographic Information Systems (GIS), my journey has been defined by a relentless pursuit of excellence.
 
 My passion for crafting high-tech solutions to real-world challenges has guided my career. As a seasoned researcher, computer vision, and NLP engineer, I've spent over four years immersed in academic and research environments, collaborating on projects that push the boundaries of what's possible. Behind the scenes, my expertise lies in NLP, Deep Learning, and Machine Learning, disciplines that I believe hold the key to reshaping how we communicate and share knowledge in the near future.
 
